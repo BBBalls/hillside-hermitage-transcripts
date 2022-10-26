@@ -13,6 +13,7 @@ Follow the file naming convention of the source file you are editing e.g. "20210
 
 Add a YAML metadata block at the beginning of the transcript document.
 
+```
 ---
 title: Can a layman be an arahant?
 author: Hillside Hermitage
@@ -21,6 +22,7 @@ category: transcript
 editor: BBBalls
 finished: 2022-10-25
 ...
+```
 
 The transcripts of dialogues may need to be edited to increase readability; be generous and light-handed.
 
