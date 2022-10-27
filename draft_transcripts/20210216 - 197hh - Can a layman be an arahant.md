@@ -1,7 +1,8 @@
 ---
+date: 2021-02-16
+episode: 197
 title: Can a layman be an arahant?
 author: Hillside Hermitage
-date: 2021-02-16
 category: transcript
 editor: BBBalls
 finished: 2022-10-25
