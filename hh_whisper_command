@@ -1,0 +1,2 @@
+whisper --model base --language English --output_dir './raw_open_ai_transcripts'
+
