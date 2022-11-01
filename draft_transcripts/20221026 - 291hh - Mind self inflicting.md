@@ -5,7 +5,7 @@ title: Mind self-inflicting
 author: Hillside Hermitage
 category: transcript
 editor: BBBalls
-finished: 2022-10-25
+finished: 
 ...
 
 Speaker1: And so my first question was actually, you spoke about it in the last video by, as it happens, was related to what you mean by delighting in sensuality.
