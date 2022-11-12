@@ -6,11 +6,11 @@ author: Hillside Hermitage
 category: transcript
 editor: BBBalls
 finished: 2022-10-25
-...
+---
 
-Thaniyo Thero: So, can a lay lifestyle lead to becoming an arahant?
+**Thaniyo Thero**: So, can a lay lifestyle lead to becoming an arahant?
 
-Ajahn Nyanamoli: A lay lifestyle, no.
+**Ajahn Nyanamoli**: A lay lifestyle, no.
 No, that's impossible.
 
 The question that's often asked is, "Can a layman be an arahant?"
@@ -53,9 +53,9 @@ Nothing would stop you from becoming a monk.
 Usually when somebody doesn't become a monk, it's because something is still stopping them in the world, which is a form of concern.
 And, that concern, itself, is an impediment, if they want to be an arahat.
 
-TT: So one can go forth without ordaining?
+**TT**: So one can go forth without ordaining?
 
-AN: Yes, but not because you feel like you've gone forth, but because you actually became sotāpanna or higher.
+**AN**: Yes, but not because you feel like you've gone forth, but because you actually became sotāpanna or higher.
 And that's why the noble ariya saṅgha in the suttas includes laypeople.
 They were not monks, but they were actually ariyas.
 And consequently one can go forth and ordain and still be a householder in his mind.
