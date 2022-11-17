@@ -233,4 +233,4 @@ Starved them away.
 > those peaceful ones live happily,\
 > having destroyed the flies.\
 
-> – AN 3.128
+> -- AN 3.128
